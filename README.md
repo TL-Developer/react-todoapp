@@ -1,4 +1,5 @@
-# TodoAPP - TodoApp for study of React;
+# TodoAPP
+  - todoapp for study;
 
 # BackEnd
   - NodeJS
@@ -7,7 +8,7 @@
   - Mongoose
   - PM2
   - Nodemon
-  
+
 # FrontEnd
   - React
   - Redux
